@@ -39,7 +39,8 @@
         "}"
     ],
     "env_set": {
-        "ACROSS_CONFIG_PATH": "$persist_dir\\config\\across.json"
+        "ACROSS_CONFIG_PATH": "$persist_dir\\config\\across.json",
+        "ACROSS_DATA_DIR": "$persist_dir\\config"
     },
     "bin": "across.exe",
     "shortcuts": [
