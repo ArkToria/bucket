@@ -1,6 +1,8 @@
 {
     "version": "0.1.0",
     "description": "A GUI Client for V2Ray",
+    "homepage": "https://github.com/ArkToria/ACross",
+    "license": "GPL-3.0-only",
     "suggest": {
         "v2ray": "v2ray",
         "vcredist": "extras/vcredist2019"
