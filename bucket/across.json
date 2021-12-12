@@ -1,5 +1,5 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A GUI Client for V2Ray",
     "homepage": "https://github.com/ArkToria/ACross",
     "license": "GPL-3.0-only",
@@ -9,8 +9,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ArkToria/ACross/releases/download/v0.1.0/msvc-x86_64-across-0.1.0.zip",
-            "hash": "84696f5fc27bbf71ec4bcf2632c0e61fbd129c8e805684106b0e64410904ebe7"
+            "url": "https://github.com/ArkToria/ACross/releases/download/v0.1.1/msvc-x86_64-across-0.1.1.zip",
+            "hash": "67339cf9bf0841276f33c3d8c0a4f384f65718c84f48f4d50ee3490ff0dd359d"
         }
     },
     "pre_install": [
